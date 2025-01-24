@@ -1,0 +1,42 @@
+{
+  "versions": [
+    "wpimath-cpp-2025.1.1-linuxarm64.zip -\u003e wpimath-cpp-2025.1.1-linuxarm64 (edu.wpi.first.wpimath:wpimath-cpp:2025.1.1)",
+    "wpinet-cpp-2025.1.1-linuxarm64.zip -\u003e wpinet-cpp-2025.1.1-linuxarm64 (edu.wpi.first.wpinet:wpinet-cpp:2025.1.1)",
+    "wpiutil-cpp-2025.1.1-linuxarm64.zip -\u003e wpiutil-cpp-2025.1.1-linuxarm64 (edu.wpi.first.wpiutil:wpiutil-cpp:2025.1.1)",
+    "ntcore-cpp-2025.1.1-linuxarm64.zip -\u003e ntcore-cpp-2025.1.1-linuxarm64 (edu.wpi.first.ntcore:ntcore-cpp:2025.1.1)",
+    "cscore-cpp-2025.1.1-linuxarm64.zip -\u003e cscore-cpp-2025.1.1-linuxarm64 (edu.wpi.first.cscore:cscore-cpp:2025.1.1)",
+    "opencv-cpp-4.10.0-3-linuxarm64.zip -\u003e opencv-cpp-4.10.0-3-linuxarm64 (edu.wpi.first.thirdparty.frc2025.opencv:opencv-cpp:4.10.0-3)"
+  ],
+  "linux": {
+    "arm64": [
+      "/linux/arm64/shared/libopencv_calib3d.so.4.10",
+      "/linux/arm64/shared/libwpiutil.so",
+      "/linux/arm64/shared/libcscorejni.so",
+      "/linux/arm64/shared/libopencv_stitching.so.4.10",
+      "/linux/arm64/shared/libopencv_imgcodecs.so.4.10",
+      "/linux/arm64/shared/libwpinetjni.so",
+      "/linux/arm64/shared/libopencv_highgui.so.4.10",
+      "/linux/arm64/shared/libntcorejni.so",
+      "/linux/arm64/shared/libopencv_gapi.so.4.10",
+      "/linux/arm64/shared/libopencv_video.so.4.10",
+      "/linux/arm64/shared/libwpiutiljni.so",
+      "/linux/arm64/shared/libopencv_java4100.so",
+      "/linux/arm64/shared/libopencv_features2d.so.4.10",
+      "/linux/arm64/shared/libopencv_aruco.so.4.10",
+      "/linux/arm64/shared/libcscore.so",
+      "/linux/arm64/shared/libopencv_imgproc.so.4.10",
+      "/linux/arm64/shared/libopencv_flann.so.4.10",
+      "/linux/arm64/shared/libntcore.so",
+      "/linux/arm64/shared/libopencv_core.so.4.10",
+      "/linux/arm64/shared/libopencv_objdetect.so.4.10",
+      "/linux/arm64/shared/libopencv_videoio.so.4.10",
+      "/linux/arm64/shared/libwpinet.so",
+      "/linux/arm64/shared/libopencv_ml.so.4.10",
+      "/linux/arm64/shared/libwpimath.so",
+      "/linux/arm64/shared/libopencv_dnn.so.4.10",
+      "/linux/arm64/shared/libwpimathjni.so",
+      "/linux/arm64/shared/libopencv_photo.so.4.10"
+    ]
+  },
+  "hash": "f3272f818da7424ed9d70ea30fc2f145"
+}
